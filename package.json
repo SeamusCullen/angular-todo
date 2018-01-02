@@ -1,0 +1,19 @@
+{
+  "name": "stream1angularnpm",
+  "version": "1.0.0",
+  "description": "Stream1 Angular NPM initialization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeamusCullen/angular-todo.git"
+  },
+  "author": "Seamus Cullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeamusCullen/angular-todo/issues"
+  },
+  "homepage": "https://github.com/SeamusCullen/angular-todo#readme"
+}
